@@ -9,6 +9,5 @@ Provided by <b>Tuwaiq Academy</b><br>
 - KHAWLAH
 - WARDAH ALMALKI
 
-### This repository comprises two projects:
+### This repository contains a single project:
 - <a href='./Quantum_OTP/'>Quantum OTP</a>
-- <a href='./Quantum_steganography/'>Quantum Steganography</a>
